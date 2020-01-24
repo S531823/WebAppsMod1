@@ -10,4 +10,4 @@
 1. Numbered List
 1. Numbered List
 
-![Credit: kirkstrobeck](http://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png = 50x)
+![Credit: kirkstrobeck](http://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png)
