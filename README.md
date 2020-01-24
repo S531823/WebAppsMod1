@@ -7,7 +7,6 @@ From: frenchdistrict.com
 1. Kemper Museum of Contemporary Art - Kansas City  
 ![Kemper](http://www.derekhaverland.com/images/KCAI/kemper_museum_thumb2.jpg)  
 From: derekhaverland.com  
-1. Institute of Contemporary Art - Boston
 
 ## Links
 * [List of Contemporary Art Museums](https://en.wikipedia.org/wiki/List_of_contemporary_art_museums)  
