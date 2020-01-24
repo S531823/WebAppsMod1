@@ -10,4 +10,4 @@
 1. Numbered List
 1. Numbered List
 
-![Credit: kirkstrobeck](http://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png)
+![Markdown Logo](http://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png)Credit: kirkstrobeck
