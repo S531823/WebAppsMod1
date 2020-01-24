@@ -1,12 +1,13 @@
-# Markdown Demonstration
+# Contemporary Art
 
 ![Markdown_Logo](https://macdown.uranusjr.com/static/images/logo-160.png)  
 From: MacDown
 
-## Second-Level Heading
-* Bullet List
-* Bullet List
-* Bullet List
+## Where to Find
+* Museum of Modern Art - New York City
+![MoMA](https://upload.wikimedia.org/wikipedia/commons/8/8b/MoMa_NY_USA_1.jpg "MoMA Wiki")
+* Kemper Museum of Contemporary Art - Kansas City
+* Institute of Contemporary Art - Boston
 
 ![GitHub_Logo](https://feathercoin.com/wp-content/uploads/2018/06/github-logo-1-e1507749180201-1.png)  
 From: FeatherCoin
