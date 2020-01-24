@@ -1,6 +1,6 @@
 # Markdown Demonstration
 
-![Markdown_Logo](https://macdown.uranusjr.com/static/images/logo-160.png)
+![Markdown_Logo](https://macdown.uranusjr.com/static/images/logo-160.png)  
 Credit: MacDown
 
 ## Second-Level Heading 1
@@ -8,7 +8,7 @@ Credit: MacDown
 * Bullet List
 * Bullet List
 
-![GitHub_Logo](https://feathercoin.com/wp-content/uploads/2018/06/github-logo-1-e1507749180201-1.png)
+![GitHub_Logo](https://feathercoin.com/wp-content/uploads/2018/06/github-logo-1-e1507749180201-1.png)  
 Credit: FeatherCoin
 
 ## Links
