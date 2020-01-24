@@ -1,5 +1,8 @@
 # Tommy V
 
+![Markdown_Logo](https://digitallabs.mmu.ac.uk/wp-content/uploads/2018/04/markdown-logo-e1524150698842.png)
+Credit: DigitalLabs@MMU
+
 ## Second-Level Heading 1
 * Bullet List
 * Bullet List
@@ -9,5 +12,3 @@
 1. Numbered List
 1. Numbered List
 1. Numbered List
-
-![Markdown Logo](http://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png)Credit: kirkstrobeck
