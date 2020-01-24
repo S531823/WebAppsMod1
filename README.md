@@ -1,11 +1,9 @@
 # Contemporary Art
 
-![Markdown_Logo](https://macdown.uranusjr.com/static/images/logo-160.png)  
-From: MacDown
-
 ## Where to Find
 * Museum of Modern Art - New York City
-![MoMA](https://upload.wikimedia.org/wikipedia/commons/8/8b/MoMa_NY_USA_1.jpg "MoMA Wiki")
+![MoMA](https://frenchdistrict.com/new-york/wp-content/uploads/sites/3/2013/09/new-york-city-museum-of-modern-art-top.jpg)  
+From: frenchdistrict.com
 * Kemper Museum of Contemporary Art - Kansas City
 * Institute of Contemporary Art - Boston
 
